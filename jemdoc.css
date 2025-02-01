@@ -89,6 +89,11 @@ div.menu-item {
 	text-indent: -16px;
 }
 
+div.menu-subitem {
+    padding-left: 32px;  /* 16px more than menu-item */
+    text-indent: -16px;  /* half of the new padding-left */
+}
+
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
