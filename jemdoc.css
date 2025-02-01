@@ -90,7 +90,7 @@ div.menu-item {
 }
 
 div.menu-subitem {
-    padding-left: 32px;  /* 16px more than menu-item */
+    padding-left: 24px;  /* 16px more than menu-item */
     text-indent: -16px;  /* half of the new padding-left */
 }
 
